@@ -9,15 +9,15 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Tran Nguyen Portfolio',
+  domain: 'trannguyen.vercel.app',
+  author: 'Tran Nguyen',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Tran Nguyen Portfolio',
 
   // social usernames (optional)
-  github: 'transitive-bullshit',
+  github: 'ducduy9304',
   linkedin: 'tranngngochuyen',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
